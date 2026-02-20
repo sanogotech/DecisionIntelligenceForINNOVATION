@@ -342,13 +342,7 @@ Ce système devient :
 
 ---
 
-Si vous le souhaitez, prochaine étape possible :
 
-* 🔷 Cahier des charges technique détaillé (backend, base de données, API)
-* 🔷 User Stories complètes Agile
-* 🔷 Architecture cloud
-* 🔷 Business model SaaS détaillé
-* 🔷 Pitch investisseur structuré
 
 
 
